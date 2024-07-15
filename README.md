@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GueteBueb
 - 👀 I’m interested in Arts, Video Games, Automation
 - 🌱 I’m currently learning Java, Python & Powershell
-- 👨‍🎓 I’m currently doing my Bachelor's in IT, soon in Digital Ideation @Hochschule Luzern
+- 👨‍🎓 I’m currently doing my Bachelor's in Business IT
 
 <!---
 GueteBueb/GueteBueb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
